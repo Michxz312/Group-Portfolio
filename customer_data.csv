@@ -1,21 +1,36 @@
 Day,Shift,Shift Demand
-Monday,entry-level,30
-Monday,junior,23
-Monday,senior,15
-Monday,manager,9
-Tuesday,entry-level,13
-Tuesday,junior,9
-Tuesday,senior,6
-Tuesday,manager,3
-Wednesday,entry-level,9
-Wednesday,junior,5
-Wednesday,senior,3
-Wednesday,manager,1
-Thursday,entry-level,4
-Thursday,junior,4
-Thursday,senior,2
-Thursday,manager,1
-Friday,entry-level,2
-Friday,junior,1
-Friday,senior,2
-Friday,manager,0
+Monday,Account opening,1
+Monday,Credit card application,0
+Monday,Loan Application,0
+Monday,Mortgage Consultation,0
+Monday,Retirement planning,0
+Monday,Financial advising,1
+Monday,Wealth management,0
+Tuesday,Account opening,3
+Tuesday,Credit card application,0
+Tuesday,Loan Application,1
+Tuesday,Mortgage Consultation,1
+Tuesday,Retirement planning,1
+Tuesday,Financial advising,0
+Tuesday,Wealth management,0
+Wednesday,Account opening,0
+Wednesday,Credit card application,0
+Wednesday,Loan Application,0
+Wednesday,Mortgage Consultation,1
+Wednesday,Retirement planning,1
+Wednesday,Financial advising,0
+Wednesday,Wealth management,1
+Thursday,Account opening,0
+Thursday,Credit card application,0
+Thursday,Loan Application,0
+Thursday,Mortgage Consultation,0
+Thursday,Retirement planning,0
+Thursday,Financial advising,0
+Thursday,Wealth management,0
+Friday,Account opening,0
+Friday,Credit card application,0
+Friday,Loan Application,1
+Friday,Mortgage Consultation,0
+Friday,Retirement planning,0
+Friday,Financial advising,0
+Friday,Wealth management,0

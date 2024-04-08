@@ -10,8 +10,8 @@ This project aims to efficiently assign employees to shifts in a bank based on t
 - Pulp
 
 ## Task for group members
-- [ ] add constraint for customer demand - wip
-- [ ] clean up the layout - wip
-- [ ] visualize the result
+- [x] add constraint for customer demand
+- [x] clean up the layout 
+- [x] visualize the result
 - [ ] create csv for testing the solution
   - [ ] debug 

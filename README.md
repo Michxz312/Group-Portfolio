@@ -13,5 +13,7 @@ This project aims to efficiently assign employees to shifts in a bank based on t
 - [x] add constraint for customer demand
 - [x] clean up the layout 
 - [x] visualize the result
+- [ ] edit formulation
+- [ ] fix employees constraint
 - [ ] create csv for testing the solution
   - [ ] debug 

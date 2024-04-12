@@ -1,36 +1,36 @@
 Day,Shift,Shift Demand
-Monday,Account opening,0
-Monday,Credit card application,0
-Monday,Loan Application,0
+Monday,Account opening,1
+Monday,Credit card application,2
+Monday,Loan Application,1
 Monday,Mortgage Consultation,0
 Monday,Retirement planning,0
 Monday,Financial advising,0
 Monday,Wealth management,0
 Tuesday,Account opening,0
-Tuesday,Credit card application,1
+Tuesday,Credit card application,0
 Tuesday,Loan Application,0
 Tuesday,Mortgage Consultation,0
-Tuesday,Retirement planning,0
-Tuesday,Financial advising,0
-Tuesday,Wealth management,1
+Tuesday,Retirement planning,1
+Tuesday,Financial advising,1
+Tuesday,Wealth management,0
 Wednesday,Account opening,0
 Wednesday,Credit card application,0
 Wednesday,Loan Application,0
 Wednesday,Mortgage Consultation,0
-Wednesday,Retirement planning,1
+Wednesday,Retirement planning,0
 Wednesday,Financial advising,0
 Wednesday,Wealth management,1
 Thursday,Account opening,0
 Thursday,Credit card application,0
 Thursday,Loan Application,0
-Thursday,Mortgage Consultation,1
+Thursday,Mortgage Consultation,0
 Thursday,Retirement planning,0
 Thursday,Financial advising,0
-Thursday,Wealth management,0
+Thursday,Wealth management,1
 Friday,Account opening,0
 Friday,Credit card application,0
 Friday,Loan Application,0
-Friday,Mortgage Consultation,1
+Friday,Mortgage Consultation,0
 Friday,Retirement planning,0
 Friday,Financial advising,0
-Friday,Wealth management,1
+Friday,Wealth management,0
